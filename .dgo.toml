@@ -1,0 +1,11 @@
+[alias.demo3]
+path = "./demo3"
+level = 0
+
+[alias.demo2]
+path = "./demo2"
+level = 0
+
+[alias.demo]
+path = "./log"
+level = 6
